@@ -21,6 +21,12 @@
 上記のキーボー画像は[keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)で作成したものです。
 上記サイトでこの画像を再現するjsonファイルも公開しています。
 
+## GPD Pocketに関する考察
+下記のQiita記事をご覧下さい。
+
+* [GPD PocketにおけるDvorak使いのためのキー配列考察と実践](https://qiita.com/yamamo2/items/e6ce32fb92ef7a6a66a1)
+* [GPD PocketのためにDvorak配列を考え直す](https://qiita.com/yamamo2/items/9ee9782196e8a5644baf#_reference-f21b2182da5513e0bb22)
+
 ## .regファイルを読み込む前に必要なこと
 下記手順にて、キーボードレイアウトを英語キーボードに変更してください。
 
