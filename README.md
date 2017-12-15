@@ -3,6 +3,7 @@
 Windows 10での日本語キーボード環境、もしくはGPD PocketでDvorak配列を使い、かつエルゴノミクスキーボード的な配列を実現するための設定です。
 
 ## 配列の詳細
+伝統的なDvorak配列と、このDvorak配列をベースにしつつ、小指の使用頻度を下げることを目的として現在検討中の「Pinky-less Dvorak」配列の2種類の配列があります。
 
 **Normal Dvorak Layout**
 ![](https://github.com/tkrworks/ExtendedDvorakLayout/blob/master/JIS/ext-dvorak-4JIS.jpg)
