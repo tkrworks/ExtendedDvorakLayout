@@ -3,7 +3,15 @@
 Windows 10での日本語キーボード環境、もしくはGPD PocketでDvorak配列を使い、かつエルゴノミクスキーボード的な配列を実現するための設定です。
 
 ## 配列の詳細
-配列の詳細は、各フォルダに入っている画像ファイルを確認してください。
+
+**Normal Dvorak Layout**
+![](https://github.com/tkrworks/ExtendedDvorakLayout/blob/master/JIS/ext-dvorak-4JIS.jpg)
+
+**Pinky-less Dvorak Layout**
+![](https://github.com/tkrworks/ExtendedDvorakLayout/blob/master/JIS/ext-pinkyless-dvorak-4JIS.jpg)
+
+上記のキーボー画像は[keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)で作成したものです。
+上記サイトでこの画像を再現するjsonファイルも公開しています。
 
 ## .regファイルを読み込む前に必要なこと
 下記手順にて、キーボードレイアウトを英語キーボードに変更してください。
