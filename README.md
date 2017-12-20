@@ -10,6 +10,7 @@
 2. 短いSPACEキーとその周辺キーと親指の有効利用
 3. キーの多さを活かした中段（ホームポジション列）への左右CTRL配置（**JISキーボード**のみ）
 4. CTRLキー以外のアルファベットキー入力における小指使用率の軽減（**Pinky-less Dvorak**のみ）
+5. AutoHotKeyによるスペースキーに対するEandC（Enter and Ctrl）実装（**Pinky-less Dvorak**のみ）
 
 ## 配列の詳細
 伝統的なDvorak配列と、このDvorak配列をベースにしつつ、小指の使用頻度を下げることを目的として現在検討中の「Pinky-less Dvorak」配列の2種類の配列があります。
@@ -24,7 +25,7 @@
 上記サイトでこの画像を再現するjsonファイルも公開しています。
 
 ## GPD Pocketに関する考察
-下記のQiita記事をご覧下さい。
+Pinky-less Dvorakを考案するきっかけになったGPD Pocketのちょっと特殊なキー配列に関する考察は、下記のQiita記事をご覧下さい。
 
 * [GPD PocketにおけるDvorak使いのためのキー配列考察と実践](https://qiita.com/yamamo2/items/e6ce32fb92ef7a6a66a1)
 * [GPD PocketのためにDvorak配列を考え直す](https://qiita.com/yamamo2/items/9ee9782196e8a5644baf#_reference-f21b2182da5513e0bb22)
