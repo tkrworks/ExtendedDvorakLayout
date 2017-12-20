@@ -1,5 +1,5 @@
 ; Edit registry to swap.
-; - Enter <=> LCtrl
+; - Enter <=> RCtrl
 
 *~a::
 *~b::
@@ -103,8 +103,8 @@
 *~PgDn::
     Return
 
-LCtrl up::
-    if (A_PriorHotkey == "*~LCtrl")
+RCtrl up::
+    if (A_PriorHotkey == "*~RCtrl")
     {
         Send, {enter}
     }
