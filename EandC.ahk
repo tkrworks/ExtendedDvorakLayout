@@ -96,6 +96,7 @@
 *~Enter::
 *~PrintScreen::
 *~Delete::
+*~Backspace::
 *~Home::
 *~End::
 *~PgUp::
