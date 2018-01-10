@@ -109,3 +109,8 @@ RCtrl up::
         Send, {enter}
     }
     Return
+
++RCtrl::Send, +{enter}
+^RCtrl::Send, ^{enter}
+#RCtrl::Send, #{enter}
+!RCtrl::Send, !{enter}
